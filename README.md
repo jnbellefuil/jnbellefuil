@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Jinah Bellefuil and I am a senior at UMN!
-I am currently working on implementing an RNN model to a seizure dataset in order to predict seizure occurence.
+I am currently working on implementing a RNN model to a seizure dataset in order to predict seizure occurence.
 <!--
 **jnbellefuil/jnbellefuil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
